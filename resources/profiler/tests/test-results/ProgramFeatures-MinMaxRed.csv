@@ -1,0 +1,4 @@
+Application Name,LoopId,DataSize,Number of Iterations,total of Iterations,Number of Loads,Number of Stores,Number of Instructions,Number of Statements,Loopness Level,No of Bits per iteration,No of Times a Data Type Changed,No of Operation Type (Integer),No of Float Operation Type,No of Double Operation Type,No of Long Double Operation,No of Long Operation,No of Short Operation,Big O Notation,No of *,No of -,No of +,No of Function Calls Side effect Free,Data dependence Free,Ratio of Reduction Statements,Ratio of Flow Dependences Remaining
+MinMaxRed.c,main#0,10000,0,0,4,0,4,1,0,0,0,0,0,null,0,0,0,0,0,true,4.0,0
+MinMaxRed.c,main#1,10000,0,0,1,0,3,1,0,0,0,0,0,null,0,0,0,0,0,true,0.0,0
+MinMaxRed.c,main#2,10000,0,0,1,0,1,1,0,0,0,0,0,null,0,0,0,0,0,true,1.0,0
